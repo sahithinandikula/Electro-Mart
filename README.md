@@ -100,6 +100,7 @@ This project is licensed under the MIT License.
 👤 Author
 
 Sahithi Nandikula
+
 🔗 GitHub Profile
 
 ---
